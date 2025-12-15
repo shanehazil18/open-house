@@ -2,3 +2,5 @@ Shane Hazil
 Abutan
 
 My motivation in joing the open house was to refresh my knowledge and keep my fundamentals sharp, even though I was already familiar with the topics.
+
+I have multiple years of experience as a Web Developer using Laravel and JavaScript. After a short break, I’m actively refreshing my skills and preparing for new opportunities.
