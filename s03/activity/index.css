@@ -1,0 +1,136 @@
+
+/* #3 */
+* {    
+    /* #4 */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: skyblue; */
+    background-image: url('./images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* #5 */
+nav {
+    padding: 16px;
+    margin-bottom: 4px;
+    background-color: #e4af93;
+    text-align: center;
+}
+
+/* #8 */
+a {
+    text-decoration: none;;
+}
+
+/* #6 #7 */
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(86, 12, 12);
+}
+.tools-img {
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.card {
+    background-color: rgb(254, 235, 218);
+    height: 400px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    /* Added style */
+    background-color: rgba(255, 234, 216, 0.8);
+    border: 1px solid #e4af93;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding-top: 2rem;
+}
+
+.card-img{
+    height: 300px;
+    width: 300px;
+}
+
+/* #9 */
+#landing{
+    text-align: center;
+}
+
+/* #11 */
+#profile {
+    height: 300px;
+    width: 300px;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    /* Added style */
+    border-radius: 150px;
+    border: 10px solid #e4af93;
+}
+
+/* #13 */
+#name {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /* Added style */
+    color: rgb(86, 12, 12);
+}
+
+/* #15 */
+#title {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /* Added style */
+    color: rgb(86, 12, 12);
+}
+
+/* #17 */
+#intro {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    /* Added style */
+    color: rgb(86, 12, 12);
+}
+
+/* #18 */
+#tools{
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    /* Added style */
+    color: rgb(86, 12, 12);
+}
+
+#tools-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* Added style */
+    color: rgb(86, 12, 12);
+}
+
+#projects {
+    text-align: center;
+    /* Added style */
+    color: rgb(86, 12, 12);
+    margin-bottom: 5rem;
+}
+
+#contact {
+    text-align: center;
+    padding: 16px;
+    margin-top: 4px;
+    background-color: #e4af93;
+}
